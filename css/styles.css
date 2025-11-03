@@ -1,0 +1,34 @@
+body {
+    background: #348aa7;
+    font-family: sans-serif;
+}
+
+.bgcard {
+    background: #bce784;
+    margin: 0px auto;
+    width: 225px;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+
+.title {
+    color: #9E5DD3;
+    padding: 8px;
+    background: #f4f1de;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+ul {
+    color: orange;
+    background: white;
+    margin: 0;
+}
+
+button {
+    margin: 0 auto;
+    padding: 10px;
+    display: block;
+    margin-bottom: 5px;
+    background: #5dd39e;
+}
